@@ -1,2 +1,6 @@
 # Stock-Screener-Scraper
-Scraping for stocks info
+Scraping for stocks info from screener.com
+
+STEPS:-
+Adding the header
+Adding desired companies tickers to the "Companies" List
