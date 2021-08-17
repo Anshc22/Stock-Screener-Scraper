@@ -3,7 +3,11 @@ Scraping for stocks info from screener.com
 
 (Some Companies may not get scraped and an error message will popup for those companies)
 
-To Do:-
+# Dependencies
+
+Bs4(Beautiful Soup),requests
+
+# To Do:-
 
 1)Adding the user agent to the header
 
