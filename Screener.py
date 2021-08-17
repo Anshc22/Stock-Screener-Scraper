@@ -1,3 +1,6 @@
+import requests
+from bs4 import BeautifulSoup as bs
+
 # Add more companies to the list to get info
 
 # If there are any errors pertaining to any company, the company's name will be shown
