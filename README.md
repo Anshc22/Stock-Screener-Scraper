@@ -5,7 +5,9 @@ Scraping for stocks info from screener.com
 
 # Dependencies
 
-Bs4(Beautiful Soup),requests
+Bs4(Beautiful Soup)
+
+requests
 
 # To Do:-
 
